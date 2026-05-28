@@ -31,9 +31,9 @@ Visualization and Analysis
 
 ## PROGRAM
 
-### Name: Roshini S
+### Name: SARAVANAN SHAM PRAKASH
 
-### Register Number:212223230174
+### Register Number:212224230254
 
 ```python
 # Autoencoder for Image Denoising using PyTorch
